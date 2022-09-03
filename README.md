@@ -6,6 +6,7 @@ This directory contains the code to sumarize html results of ViralFlow 1.0.0
 
 ```bash
 git clone https://github.com/dezordi/viralflow-report.git
+cd viralflow-report
 pip install .
 ```
 
